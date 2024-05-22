@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![hello](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20jaeheon&fontSize=90)
 <!--
 **jjheon0614/jjheon0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
