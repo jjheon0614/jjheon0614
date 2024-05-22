@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%20am%20jaeheon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=300&section=header&text=I%20am%20jaeheon.&fontSize=90&fontColor=000000&stroke=b678c4&strokeWidth=1)
 
 ## Welcome my github profile !
 <!--
