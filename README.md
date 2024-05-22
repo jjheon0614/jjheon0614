@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=300&section=header&text=I%20am%20jaeheon.&fontSize=90&fontColor=000000&stroke=b678c4&strokeWidth=1)
 
-## Welcome my github profile !
+## Welcome my github profile!<br> I'm a Software Engineer student at University of RMIT.
 <!--
 **jjheon0614/jjheon0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
