@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20&height=300&section=header&text=I%20am%20jaeheon.&fontSize=90&fontColor=000000&stroke=b678c4&strokeWidth=1)
 
-## Welcome my github profile!<br> I'm a Software Engineering student at RMIT University.
+## Welcome to my github profile!<br> I'm a Software Engineering student at RMIT University.
 
 ## 📞 Contacts 📞
 <div style="display:flex; flex-direction:row;">
