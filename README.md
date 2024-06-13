@@ -12,7 +12,7 @@
     </a>
 </div><br>
 
-## Skills 
+## Skills & Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
