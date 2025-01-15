@@ -17,7 +17,8 @@
 | Period        | Project Name                                     | Area     | Team/Individual | Link      |
 | ------------- | ------------------------------------------------ | -------- | --------------- | --------- |
 | 24.03 ~ 24.09 | Capstone: Apply AI visual testing for testing mobile application |  QA | Team            | [Link](https://github.com/jjheon0614/Capstone-Jenkins-file)          |
-| 23.11 ~ 24.01 | FROYO (SNS for University student)                     |  Mobile | Team            | [Link](https://github.com/jjheon0614/Froyo) |
+| 23.12 ~ 24.01 | Doc Grammer                     |  Web | Team            | [Link](https://github.com/jjheon0614/Doc-Grammer) |
+| 23.12 ~ 24.01 | FROYO (SNS for University student)                     |  Mobile | Team            | [Link](https://github.com/jjheon0614/Froyo) |
 | 23.11 ~ 23.12 | Kafka-cassandra-datavisualization                      |  BigData |Individual      | [Link](https://github.com/jjheon0614/kafka-cassandra-dataVisualization) |
 | 23.08 ~ 23.09 | Finder (Make friends in University)                    |  Mobile |Team            | [Link](https://github.com/jjheon0614/Finder) |
 | 23.08 ~ 23.08 | MyOS (Bare metal OS)                    | IoT | Individual            | [Link](https://github.com/jjheon0614/MyOS) |
