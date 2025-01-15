@@ -2,16 +2,6 @@
 
 ## Welcome to my github profile!<br> I'm a Software Engineering student at RMIT University.
 
-## 📞 Contacts 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/wogjs_00/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:jjheon0614@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-
 ## Skills & Tools
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -33,4 +23,12 @@
 | 23.08 ~ 23.08 | MyOS (Bare metal OS)                    | IoT | Individual            | [Link](https://github.com/jjheon0614/MyOS) |
 | 23.07 ~ 23.08 | Blackjack Casino Game                                  |  Mobile | Individual      | [Link](https://github.com/jjheon0614/Blackjack-Casino) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+## 📞 Contacts 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/wogjs_00/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:jjheon0614@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
