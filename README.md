@@ -24,13 +24,13 @@
 
 ## Projects
 
-| Period            | Project Name                                           | Team/Individual | Link      |
-| ----------------- | ------------------------------------------------------ | --------------- | --------- |
-| 2024.03 ~ 2024.09 | Apply AI visual testing for testing mobile application | Team            |           |
-| 2023.11 ~ 2024.01 | FROYO (SNS for University student)                     | Team            | [Link](https://github.com/jjheon0614/Froyo) |
-| 2023.11 ~ 2023.12 | Kafka-cassandra-datavisualization                      | Individual      | [Link](https://github.com/jjheon0614/kafka-cassandra-dataVisualization) |
-| 2023.08 ~ 2023.09 | Finder (Make friends in University)                    | Team            | [Link](https://github.com/jjheon0614/Finder) |
-| 2023.08 ~ 2023.08 | MyOS (Bare metal OS)                    | Individual            | [Link](https://github.com/jjheon0614/MyOS) |
-| 2023.07 ~ 2023.08 | Blackjack Casino Game                                  | Individual      | [Link](https://github.com/jjheon0614/Blackjack-Casino) |
+| Period            | Project Name                                     | Area     | Team/Individual | Link      |
+| ----------------- | ------------------------------------------------ | -------- | --------------- | --------- |
+| 2024.03 ~ 2024.09 | Apply AI visual testing for testing mobile application |  QA | Team            |           |
+| 2023.11 ~ 2024.01 | FROYO (SNS for University student)                     |  Mobile | Team            | [Link](https://github.com/jjheon0614/Froyo) |
+| 2023.11 ~ 2023.12 | Kafka-cassandra-datavisualization                      |  BigData |Individual      | [Link](https://github.com/jjheon0614/kafka-cassandra-dataVisualization) |
+| 2023.08 ~ 2023.09 | Finder (Make friends in University)                    |  Mobile |Team            | [Link](https://github.com/jjheon0614/Finder) |
+| 2023.08 ~ 2023.08 | MyOS (Bare metal OS)                    | IoT | Individual            | [Link](https://github.com/jjheon0614/MyOS) |
+| 2023.07 ~ 2023.08 | Blackjack Casino Game                                  |  Mobile | Individual      | [Link](https://github.com/jjheon0614/Blackjack-Casino) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
