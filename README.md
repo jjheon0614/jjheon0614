@@ -26,7 +26,7 @@
 
 | Period            | Project Name                                           | Team/Individual | Link      |
 | ----------------- | ------------------------------------------------------ | --------------- | --------- |
-| 2024.03 ~ 2023.09 | Apply AI visual testing for testing mobile application | Team            |           |
+| 2024.03 ~ 2024.09 | Apply AI visual testing for testing mobile application | Team            |           |
 | 2023.11 ~ 2024.01 | FROYO (SNS for University student)                     | Team            | [Link](https://github.com/jjheon0614/Froyo) |
 | 2023.11 ~ 2023.12 | Kafka-cassandra-datavisualization                      | Individual      | [Link](https://github.com/jjheon0614/kafka-cassandra-dataVisualization) |
 | 2023.08 ~ 2023.09 | Finder (Make friends in University)                    | Team            | [Link](https://github.com/jjheon0614/Finder) |
