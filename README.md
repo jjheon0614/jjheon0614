@@ -23,6 +23,7 @@
 | 23.08 ~ 23.09 | Finder (Make friends in University)                    |  Mobile |Team            | [Link](https://github.com/jjheon0614/Finder) |
 | 23.08 ~ 23.08 | MyOS (Bare metal OS)                    | IoT | Individual            | [Link](https://github.com/jjheon0614/MyOS) |
 | 23.07 ~ 23.08 | Blackjack Casino Game                                  |  Mobile | Individual      | [Link](https://github.com/jjheon0614/Blackjack-Casino) |
+| 23.04 ~ 23.05 | Flower Image Classification & Recommendation         |  ML | Team      | [Link](https://github.com/jjheon0614/Flower-Image-Classification-and-Recommendation) |
 | 23.04 ~ 23.05 | RealEstate                                 |  Web | Team      | [Link](https://github.com/jjheon0614/RealEstate) |
 
 ## 📞 Contacts 📞
