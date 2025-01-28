@@ -13,7 +13,6 @@
 </div><br>
 
 ## Projects
-
 | Period        | Project Name                                     | Area     | Team/Individual | Link      |
 | ------------- | ------------------------------------------------ | -------- | --------------- | --------- |
 | 24.03 ~ 24.09 | Capstone: Apply AI visual testing for testing mobile application |  QA | Team            | [Link](https://github.com/jjheon0614/Capstone-Jenkins-file)          |
